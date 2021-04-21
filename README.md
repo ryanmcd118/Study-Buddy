@@ -1,1 +1,3 @@
-# scratch_project
+# Study Buddy
+
+More info coming soon!
